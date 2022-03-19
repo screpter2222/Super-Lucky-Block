@@ -1,0 +1,3 @@
+
+local Event = game:GetService("ReplicatedStorage").SpawnSuperBlock
+Event:FireServer()
